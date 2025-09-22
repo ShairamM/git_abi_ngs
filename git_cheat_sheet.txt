@@ -1,6 +1,6 @@
 git add [file]: add a file that will be your next commit (stage)
 
-git commit -m “[descriptive message]”: commit your staged content as a new commit snapshot (ready for push)
+git commit -m “[descriptive message]”: commit your staged content as a new commit snapshot (ready to push)
 
 git push [alias] [branch], git push origin main, git push --set-upstream origin main(then can use git push): move local branch commits to the remote repository branch
 
